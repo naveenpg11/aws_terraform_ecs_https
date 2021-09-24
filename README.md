@@ -1,6 +1,6 @@
-# Terraform Challenge to provision AWS Infrstructure
+# Terraform to provision AWS Infrstructure
 
-Terraform Code to create AWS Infrastructure which:
+Terraform Project to create AWS Infrastructure which:
 - Runs the container workload (we recommend ECS)
 - Exposes the application to the internet over HTTPS in some way
 
